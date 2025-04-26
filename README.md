@@ -1,6 +1,6 @@
 # 👊 Knucklehead
 
-Knucklehead[^1] is a mnemonic, macOS-optimized, ergonomic columnar layout for [corne-style 42 key split keyboards](https://github.com/foostan/crkbd), designed[^2] to ease the transition from standard ANSI Apple-style keyboards.
+Knucklehead[^1] is a mnemonic, macOS-optimized ergonomic columnar layout for [corne-style 42 key split keyboards](https://github.com/foostan/crkbd), designed[^2] to ease the transition from standard ANSI Apple-style keyboards.
 
 > [!WARNING]
 >
