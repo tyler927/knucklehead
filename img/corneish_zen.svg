@@ -873,9 +873,8 @@ path.combo {
 </g>
 <g transform="translate(760, 140)" class="key keypos-18">
 <rect rx="4" ry="4" x="-38" y="-38" width="77" height="77" class="key"/>
-<text x="0" y="0" class="key tap">
-<tspan x="0" dy="-1.0em" style="font-size: 71%">&amp;hrmr</tspan><tspan x="0" dy="1.0em" style="font-size: 71%">LS(LC</tspan><tspan x="0" dy="1.0em" style="font-size: 71%">(LALT))</tspan>
-</text>
+<text x="0" y="0" class="key tap">:</text>
+<use href="#mdi:triangle" xlink:href="#mdi:triangle" x="-8" y="18" height="16" width="16.0" class="key hold glyph mdi:triangle"/>
 </g>
 <g transform="translate(840, 130)" class="key keypos-19">
 <rect rx="4" ry="4" x="-38" y="-38" width="77" height="77" class="key"/>
@@ -1237,13 +1236,13 @@ path.combo {
 <a href="#L2">
 <text x="0" y="34" class="key hold layer-activator">L2</text>
 </a></g>
-<g transform="translate(502, 320) rotate(30.0)" class="key trans keypos-38">
-<rect rx="4" ry="4" x="-38" y="-58" width="77" height="117" class="key trans"/>
-<use href="#mdi:transfer" xlink:href="#mdi:transfer" x="-11" y="-11" height="22" width="22.0" class="key trans tap glyph mdi:transfer"/>
-</g>
-<g transform="translate(698, 320) rotate(-30.0)" class="key keypos-39">
+<g transform="translate(502, 320) rotate(30.0)" class="key keypos-38">
 <rect rx="4" ry="4" x="-38" y="-58" width="77" height="117" class="key"/>
 <use href="#mdi:apple-keyboard-caps" xlink:href="#mdi:apple-keyboard-caps" x="-11" y="-11" height="22" width="22.0" class="key tap glyph mdi:apple-keyboard-caps"/>
+</g>
+<g transform="translate(698, 320) rotate(-30.0)" class="key trans keypos-39">
+<rect rx="4" ry="4" x="-38" y="-58" width="77" height="117" class="key trans"/>
+<use href="#mdi:transfer" xlink:href="#mdi:transfer" x="-11" y="-11" height="22" width="22.0" class="key trans tap glyph mdi:transfer"/>
 </g>
 <g transform="translate(792, 304) rotate(-15.0)" class="key keypos-40">
 <rect rx="4" ry="4" x="-38" y="-38" width="77" height="77" class="key"/>
