@@ -888,9 +888,8 @@ path.combo {
 </g>
 <g transform="translate(1080, 150)" class="key keypos-22">
 <rect rx="4" ry="4" x="-38" y="-38" width="77" height="77" class="key"/>
-<text x="0" y="0" class="key tap">
-<tspan x="0" dy="-1.0em" style="font-size: 71%">&amp;hrml</tspan><tspan x="0" dy="1.0em" style="font-size: 71%">LS(LC</tspan><tspan x="0" dy="1.0em" style="font-size: 71%">(LALT))</tspan>
-</text>
+<text x="0" y="0" class="key tap">:</text>
+<use href="#mdi:triangle" xlink:href="#mdi:triangle" x="-8" y="18" height="16" width="16.0" class="key hold glyph mdi:triangle"/>
 </g>
 <g transform="translate(1160, 150)" class="key trans keypos-23">
 <rect rx="4" ry="4" x="-38" y="-38" width="77" height="77" class="key trans"/>
