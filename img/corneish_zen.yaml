@@ -18,8 +18,8 @@ layers:
   - {t: R, h: '$$mdi:apple-keyboard-control$$'}
   - {t: S, h: '$$mdi:apple-keyboard-option$$'}
   - {t: T, h: '$$mdi:apple-keyboard-command$$'}
-  - {t: G, h: Ctl+LALT(LGUI)}
-  - {t: M, h: Ctl+LALT(LGUI)}
+  - {t: G, h: Ctl+Alt+LGUI}
+  - {t: M, h: Ctl+Alt+LGUI}
   - {t: N, h: '$$mdi:apple-keyboard-command$$'}
   - {t: E, h: '$$mdi:apple-keyboard-option$$'}
   - {t: I, h: '$$mdi:apple-keyboard-control$$'}
@@ -61,8 +61,8 @@ layers:
   - {t: '7', h: '$$mdi:apple-keyboard-control$$', s: '&'}
   - {t: '8', h: '$$mdi:apple-keyboard-option$$', s: '*'}
   - {t: '9', h: '$$mdi:apple-keyboard-command$$', s: (}
-  - {t: '0', h: Ctl+LALT(LGUI), s: )}
-  - {t: ':', h: Ctl+LALT(LGUI)}
+  - {t: '0', h: Ctl+Alt+LGUI, s: )}
+  - {t: ':', h: Ctl+Alt+LGUI}
   - {t: '$$mdi:arrow-left-bold$$', h: '$$mdi:apple-keyboard-command$$'}
   - {t: '$$mdi:arrow-down-bold$$', h: '$$mdi:apple-keyboard-option$$'}
   - {t: '$$mdi:arrow-right-bold$$', h: '$$mdi:apple-keyboard-control$$'}
