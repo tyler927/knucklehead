@@ -551,7 +551,7 @@ path.combo {
 <g transform="translate(120, 150)" class="key keypos-13">
 <rect rx="4" ry="4" x="-38" y="-38" width="77" height="77" class="key"/>
 <text x="0" y="0" class="key tap">A</text>
-<use href="#mdi:triangle" xlink:href="#mdi:triangle" x="-8" y="18" height="16" width="16.0" class="key hold glyph mdi:triangle"/>
+<text x="0" y="34" class="key hold"><tspan style="font-size: 62%">Ctl+Alt…</tspan></text>
 </g>
 <g transform="translate(200, 130)" class="key keypos-14">
 <rect rx="4" ry="4" x="-38" y="-38" width="77" height="77" class="key"/>
@@ -571,12 +571,12 @@ path.combo {
 <g transform="translate(440, 140)" class="key keypos-17">
 <rect rx="4" ry="4" x="-38" y="-38" width="77" height="77" class="key"/>
 <text x="0" y="0" class="key tap">G</text>
-<text x="0" y="34" class="key hold"><tspan style="font-size: 62%">Ctl+Alt…</tspan></text>
+<use href="#mdi:triangle" xlink:href="#mdi:triangle" x="-8" y="18" height="16" width="16.0" class="key hold glyph mdi:triangle"/>
 </g>
 <g transform="translate(760, 140)" class="key keypos-18">
 <rect rx="4" ry="4" x="-38" y="-38" width="77" height="77" class="key"/>
 <text x="0" y="0" class="key tap">M</text>
-<text x="0" y="34" class="key hold"><tspan style="font-size: 62%">Ctl+Alt…</tspan></text>
+<use href="#mdi:triangle" xlink:href="#mdi:triangle" x="-8" y="18" height="16" width="16.0" class="key hold glyph mdi:triangle"/>
 </g>
 <g transform="translate(840, 130)" class="key keypos-19">
 <rect rx="4" ry="4" x="-38" y="-38" width="77" height="77" class="key"/>
@@ -596,7 +596,7 @@ path.combo {
 <g transform="translate(1080, 150)" class="key keypos-22">
 <rect rx="4" ry="4" x="-38" y="-38" width="77" height="77" class="key"/>
 <text x="0" y="0" class="key tap">O</text>
-<use href="#mdi:triangle" xlink:href="#mdi:triangle" x="-8" y="18" height="16" width="16.0" class="key hold glyph mdi:triangle"/>
+<text x="0" y="34" class="key hold"><tspan style="font-size: 62%">Ctl+Alt…</tspan></text>
 </g>
 <g transform="translate(1160, 150)" class="key enter keypos-23">
 <rect rx="4" ry="4" x="-38" y="-38" width="77" height="77" class="key enter"/>
@@ -839,7 +839,7 @@ path.combo {
 <g transform="translate(120, 150)" class="key keypos-13">
 <rect rx="4" ry="4" x="-38" y="-38" width="77" height="77" class="key"/>
 <text x="0" y="0" class="key tap">6</text>
-<use href="#mdi:triangle" xlink:href="#mdi:triangle" x="-8" y="18" height="16" width="16.0" class="key hold glyph mdi:triangle"/>
+<text x="0" y="34" class="key hold"><tspan style="font-size: 62%">Ctl+Alt…</tspan></text>
 <text x="0" y="-34" class="key shifted">^</text>
 </g>
 <g transform="translate(200, 130)" class="key keypos-14">
@@ -863,13 +863,13 @@ path.combo {
 <g transform="translate(440, 140)" class="key keypos-17">
 <rect rx="4" ry="4" x="-38" y="-38" width="77" height="77" class="key"/>
 <text x="0" y="0" class="key tap">0</text>
-<text x="0" y="34" class="key hold"><tspan style="font-size: 62%">Ctl+Alt…</tspan></text>
+<use href="#mdi:triangle" xlink:href="#mdi:triangle" x="-8" y="18" height="16" width="16.0" class="key hold glyph mdi:triangle"/>
 <text x="0" y="-34" class="key shifted">)</text>
 </g>
 <g transform="translate(760, 140)" class="key keypos-18">
 <rect rx="4" ry="4" x="-38" y="-38" width="77" height="77" class="key"/>
 <text x="0" y="0" class="key tap">:</text>
-<text x="0" y="34" class="key hold"><tspan style="font-size: 62%">Ctl+Alt…</tspan></text>
+<use href="#mdi:triangle" xlink:href="#mdi:triangle" x="-8" y="18" height="16" width="16.0" class="key hold glyph mdi:triangle"/>
 </g>
 <g transform="translate(840, 130)" class="key keypos-19">
 <rect rx="4" ry="4" x="-38" y="-38" width="77" height="77" class="key"/>
@@ -889,7 +889,7 @@ path.combo {
 <g transform="translate(1080, 150)" class="key keypos-22">
 <rect rx="4" ry="4" x="-38" y="-38" width="77" height="77" class="key"/>
 <text x="0" y="0" class="key tap">:</text>
-<use href="#mdi:triangle" xlink:href="#mdi:triangle" x="-8" y="18" height="16" width="16.0" class="key hold glyph mdi:triangle"/>
+<text x="0" y="34" class="key hold"><tspan style="font-size: 62%">Ctl+Alt…</tspan></text>
 </g>
 <g transform="translate(1160, 150)" class="key trans keypos-23">
 <rect rx="4" ry="4" x="-38" y="-38" width="77" height="77" class="key trans"/>

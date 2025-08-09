@@ -14,16 +14,16 @@ layers:
   - {t: '''', s: '"'}
   - {t: /, s: '?'}
   - {t: '$$mdi:backspace$$', s: '$$mdi:backspace-reverse-outline$$', type: backspace}
-  - {t: A, h: '$$mdi:triangle$$'}
+  - {t: A, h: Ctl+Alt+LGUI}
   - {t: R, h: '$$mdi:apple-keyboard-control$$'}
   - {t: S, h: '$$mdi:apple-keyboard-option$$'}
   - {t: T, h: '$$mdi:apple-keyboard-command$$'}
-  - {t: G, h: Ctl+Alt+LGUI}
-  - {t: M, h: Ctl+Alt+LGUI}
+  - {t: G, h: '$$mdi:triangle$$'}
+  - {t: M, h: '$$mdi:triangle$$'}
   - {t: N, h: '$$mdi:apple-keyboard-command$$'}
   - {t: E, h: '$$mdi:apple-keyboard-option$$'}
   - {t: I, h: '$$mdi:apple-keyboard-control$$'}
-  - {t: O, h: '$$mdi:triangle$$'}
+  - {t: O, h: Ctl+Alt+LGUI}
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - '&csl K_CANCEL'
   - Z
@@ -57,16 +57,16 @@ layers:
   - $$mdi:volume-high$$
   - $$mdi:volume-off$$
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '6', h: '$$mdi:triangle$$', s: ^}
+  - {t: '6', h: Ctl+Alt+LGUI, s: ^}
   - {t: '7', h: '$$mdi:apple-keyboard-control$$', s: '&'}
   - {t: '8', h: '$$mdi:apple-keyboard-option$$', s: '*'}
   - {t: '9', h: '$$mdi:apple-keyboard-command$$', s: (}
-  - {t: '0', h: Ctl+Alt+LGUI, s: )}
-  - {t: ':', h: Ctl+Alt+LGUI}
+  - {t: '0', h: '$$mdi:triangle$$', s: )}
+  - {t: ':', h: '$$mdi:triangle$$'}
   - {t: '$$mdi:arrow-left-bold$$', h: '$$mdi:apple-keyboard-command$$'}
   - {t: '$$mdi:arrow-down-bold$$', h: '$$mdi:apple-keyboard-option$$'}
   - {t: '$$mdi:arrow-right-bold$$', h: '$$mdi:apple-keyboard-control$$'}
-  - {t: ':', h: '$$mdi:triangle$$'}
+  - {t: ':', h: Ctl+Alt+LGUI}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
