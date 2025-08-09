@@ -14,7 +14,7 @@
 #define MEH LS(LC(LALT))
 
 // Hyper key
-#define HYPER LCMD(LS(LC(LALT))) 
+#define HYPER LC(LS(LA(LGUI)))
 
 // Behaviors Constants
 #define TAPPING_TERM_MS 280
