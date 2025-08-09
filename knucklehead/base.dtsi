@@ -16,7 +16,7 @@
 // Behaviors Constants
 #define TAPPING_TERM_MS 280
 #define QUICK_TAP_MS 175
-#define REQUIRE_PRIOR_IDLE_MS 150
+#define REQUIRE_PRIOR_IDLE_MS 100
 
 // Combos Constants
 #define COMBO_TERM_DEFAULT 30
